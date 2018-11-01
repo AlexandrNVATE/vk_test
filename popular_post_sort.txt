@@ -2,7 +2,7 @@ id : 101230
 likes : 1409
 comment : 27
 repost : 37
-views : 58643
+views : 58681
 text : Презервативы Durex Air - http://ali.pub/2ue3v5
 attachments : https://pp.userapi.com/c849220/v849220338/a8826/ducT7CS10IQ.jpg
 link : https://vk.com/wall-101436686_101230
@@ -10,13 +10,24 @@ link : https://vk.com/wall-101436686_101230
 
 
 id : 101321
-likes : 1162
+likes : 1168
 comment : 43
 repost : 59
-views : 78799
+views : 79340
 text : Мне срочно нужна такая штука - http://ali.pub/2ueoa5
 attachments : -
 link : https://vk.com/wall-101436686_101321
+
+
+
+id : 102563
+likes : 1049
+comment : 27
+repost : 34
+views : 48534
+text : Презервативы Durex Air - http://ali.pub/2um1od
+attachments : https://pp.userapi.com/c847124/v847124229/11e1e7/ZtUNcsn25ss.jpg
+link : https://vk.com/wall-101436686_102563
 
 
 
@@ -24,21 +35,10 @@ id : 90401
 likes : 1048
 comment : 0
 repost : 22
-views : 45175
+views : 45176
 text : Светящиеся маски - http://ali.pub/2sdf1j
 attachments : https://pp.userapi.com/c850224/v850224299/40bf0/v-oe9fC2Q0k.jpg
 link : https://vk.com/wall-101436686_90401
-
-
-
-id : 102563
-likes : 1046
-comment : 27
-repost : 34
-views : 48380
-text : Презервативы Durex Air - http://ali.pub/2um1od
-attachments : https://pp.userapi.com/c847124/v847124229/11e1e7/ZtUNcsn25ss.jpg
-link : https://vk.com/wall-101436686_102563
 
 
 
@@ -46,7 +46,7 @@ id : 93046
 likes : 986
 comment : 40
 repost : 72
-views : 73249
+views : 73251
 text : Неожиданно - http://ali.pub/2t267w
 attachments : -
 link : https://vk.com/wall-101436686_93046
@@ -101,7 +101,7 @@ id : 94530
 likes : 769
 comment : 16
 repost : 35
-views : 56062
+views : 56065
 text : Резать бутылки из под пивчанского и продавать модные стаканы на базаре по 20р за шт
 http://ali.pub/2t97as
 attachments : -
@@ -113,7 +113,7 @@ id : 2625120
 likes : 1516
 comment : 25
 repost : 17
-views : 426219
+views : 426228
 text : Однажды в далёкой-далёкой (на самом деле не очень) галактике...
 
 by [club59530552|лимонъ] 
@@ -128,7 +128,7 @@ id : 2624712
 likes : 1319
 comment : 42
 repost : 3
-views : 432219
+views : 432223
 text : Давайте жить дружно!  А то мне ещё много чего на AliExpress надо заказать...
 
 by [club88550574|Мишкина Шишка] 
@@ -143,7 +143,7 @@ id : 2625691
 likes : 1198
 comment : 104
 repost : 5
-views : 398141
+views : 398147
 text : Приключения человека и его друга 
 
 Раздел «С друзьями дешевле» доступен через мобильное приложение: https://d.aliexpress.com/https://sale.aliexpress.com/cheaperwithfriends.htm?tracelog=snsaliexpress_edu_low_app
@@ -160,7 +160,7 @@ id : 2622833
 likes : 1184
 comment : 52
 repost : 53
-views : 104171
+views : 104177
 text : Рюкзак для переноски животных: http://bit.ly/AliExpress_perenoska
 
 Прокатить котика — бесценно 
@@ -173,7 +173,7 @@ id : 2626763
 likes : 1118
 comment : 32
 repost : 73
-views : 99344
+views : 99364
 text : Чесалка для кота: http://bit.ly/AliExpress-mrrr
 
 Сделать любимца счастливым проще, чем кажется
@@ -186,7 +186,7 @@ id : 2626464
 likes : 1118
 comment : 12
 repost : 9
-views : 529885
+views : 529899
 text : Оказывается, на AliExpress закупаются не только люди... 
 
 by [club76688287|@conservishit]
@@ -203,7 +203,7 @@ id : 2625412
 likes : 1001
 comment : 13
 repost : 4
-views : 427740
+views : 427747
 text : Даже на смертельной битве найдётся место настоящей дружбе 
 
 Раздел «С друзьями дешевле» доступен через мобильное приложение: https://d.aliexpress.com/https://sale.aliexpress.com/cheaperwithfriends.htm?tracelog=snsaliexpress_edu_low_app
@@ -220,7 +220,7 @@ id : 2624930
 likes : 949
 comment : 23
 repost : 8
-views : 427641
+views : 427647
 text : А вы ходите с друзьями за грибами? Вернее, за скидками 
 
 by [club46674907|Настенькины Комиксы] 
@@ -235,7 +235,7 @@ id : 2622641
 likes : 927
 comment : 28
 repost : 51
-views : 94208
+views : 94214
 text : Держатель для мебели: http://bit.ly/AliExpress-cabinet
 
 Надо брать, пока есть хорошая скидка 
@@ -248,7 +248,7 @@ id : 2623582
 likes : 905
 comment : 23
 repost : 76
-views : 106935
+views : 106940
 text : Когда так ждал выходных, что немного не рассчитал 
 attachments : -
 link : https://vk.com/wall-36941068_2623582
@@ -256,10 +256,10 @@ link : https://vk.com/wall-36941068_2623582
 
 
 id : 27923
-likes : 123324
+likes : 123325
 comment : 17
 repost : 953
-views : 12983736
+views : 12984309
 text : 
 attachments : https://pp.userapi.com/c626420/v626420942/468ba/x_KgfCfHFdQ.jpg
 link : https://vk.com/wall-96457590_27923
@@ -270,7 +270,7 @@ id : 112131
 likes : 1554
 comment : 14
 repost : 78
-views : 63318
+views : 63345
 text : Шарики для похорон юности твоей
 
 http://ali.pub/2t2qi8
@@ -283,7 +283,7 @@ id : 111840
 likes : 1314
 comment : 113
 repost : 59
-views : 85135
+views : 85153
 text : Подушка для путешествий или пинания болтов на паре в универе
 
 http://ali.pub/2t2pnp
@@ -296,7 +296,7 @@ id : 108546
 likes : 1206
 comment : 21
 repost : 49
-views : 69185
+views : 69190
 text : Штамп -
 
 http://ali.pub/2smkwu
@@ -309,7 +309,7 @@ id : 112089
 likes : 1022
 comment : 1
 repost : 4
-views : 55028
+views : 55044
 text : С тебя  и найдем эти носки
 attachments : https://pp.userapi.com/c845017/v845017072/117b7d/dj14iKeBi7E.jpg
 link : https://vk.com/wall-96457590_112089
@@ -319,8 +319,8 @@ link : https://vk.com/wall-96457590_112089
 id : 113290
 likes : 969
 comment : 28
-repost : 31
-views : 70394
+repost : 30
+views : 70418
 text : Чесалка для киски
 
 http://ali.pub/2t8vgd
@@ -330,10 +330,10 @@ link : https://vk.com/wall-96457590_113290
 
 
 id : 117591
-likes : 957
+likes : 958
 comment : 12
 repost : 17
-views : 56245
+views : 56460
 text : Крутейший выпуск у iScience 
 attachments : 
 link : https://vk.com/wall-96457590_117591
@@ -344,7 +344,7 @@ id : 110062
 likes : 932
 comment : 42
 repost : 41
-views : 67768
+views : 67774
 text : Как надо жить!
 
 http://ali.pub/2sx5cx
@@ -357,7 +357,7 @@ id : 106842
 likes : 891
 comment : 12
 repost : 13
-views : 57005
+views : 57007
 text : 
 attachments : https://pp.userapi.com/c847218/v847218797/fc300/yO7UlDdRJqI.jpg
 link : https://vk.com/wall-96457590_106842
@@ -368,7 +368,7 @@ id : 106456
 likes : 849
 comment : 13
 repost : 20
-views : 70527
+views : 70531
 text : А теперь добавим "четкости изображения"
 
 Фляга - http://ali.pub/2sefi8
@@ -378,10 +378,10 @@ link : https://vk.com/wall-96457590_106456
 
 
 id : 54932
-likes : 1222
+likes : 1243
 comment : 0
 repost : 26
-views : 54317
+views : 55352
 text : Милая пижама - http://ali.pub/2u97yo
 attachments : https://pp.userapi.com/c847221/v847221669/120afd/bFSf5onX60E.jpg
 link : https://vk.com/wall-93943373_54932
@@ -392,7 +392,7 @@ id : 53476
 likes : 808
 comment : 0
 repost : 25
-views : 29255
+views : 29258
 text : Блузка - http://ali.pub/2i28xm
 attachments : https://pp.userapi.com/c850016/v850016718/8c2eb/s97sYkQd1ns.jpg
 link : https://vk.com/wall-93943373_53476
@@ -403,7 +403,7 @@ id : 53360
 likes : 792
 comment : 0
 repost : 20
-views : 29535
+views : 29539
 text : Блузка - http://ali.pub/2sexac
 attachments : https://pp.userapi.com/c849416/v849416558/904c0/XJ0oVCCzjVo.jpg
 link : https://vk.com/wall-93943373_53360
@@ -411,10 +411,10 @@ link : https://vk.com/wall-93943373_53360
 
 
 id : 54488
-likes : 758
+likes : 759
 comment : 0
 repost : 14
-views : 29634
+views : 29655
 text : Ремень - http://ali.pub/2tnlvl
 attachments : https://pp.userapi.com/c851436/v851436560/29632/uV82FsEZxgE.jpg
 link : https://vk.com/wall-93943373_54488
@@ -425,21 +425,10 @@ id : 53481
 likes : 747
 comment : 0
 repost : 16
-views : 27515
+views : 27519
 text : Нежный свитер - http://ali.pub/2sknkk
 attachments : https://pp.userapi.com/c850016/v850016465/8bd1f/09h0890gOsk.jpg
 link : https://vk.com/wall-93943373_53481
-
-
-
-id : 53290
-likes : 731
-comment : 0
-repost : 16
-views : 25534
-text : Плед - http://ali.pub/28xkn6
-attachments : https://pp.userapi.com/c849416/v849416189/8995b/sOfQ2hJYIMQ.jpg
-link : https://vk.com/wall-93943373_53290
 
 
 
@@ -447,7 +436,7 @@ id : 53771
 likes : 725
 comment : 0
 repost : 19
-views : 29501
+views : 29506
 text : Кропы - http://ali.pub/2suf2f
 attachments : https://pp.userapi.com/c846520/v846520361/1125ac/vq-IUoi7F-o.jpg
 link : https://vk.com/wall-93943373_53771
@@ -458,7 +447,7 @@ id : 53880
 likes : 713
 comment : 0
 repost : 15
-views : 27851
+views : 27855
 text : Плед - http://ali.pub/2ge2g0
 attachments : https://pp.userapi.com/c850636/v850636867/1f1ed/yEg5WprqVyY.jpg
 link : https://vk.com/wall-93943373_53880
@@ -466,10 +455,10 @@ link : https://vk.com/wall-93943373_53880
 
 
 id : 54228
-likes : 702
+likes : 703
 comment : 0
 repost : 20
-views : 28338
+views : 28350
 text : Ночник - http://ali.pub/22zv4b
 attachments : https://pp.userapi.com/c847218/v847218928/11412f/BdIevCmRS3w.jpg
 link : https://vk.com/wall-93943373_54228
@@ -480,18 +469,29 @@ id : 53895
 likes : 690
 comment : 0
 repost : 11
-views : 27451
+views : 27456
 text : Постельное белье - http://ali.pub/2gbrwb
 attachments : https://pp.userapi.com/c850636/v850636121/1ed25/IuIEhRA6I9A.jpg
 link : https://vk.com/wall-93943373_53895
 
 
 
-id : 28957
-likes : 2828
+id : 53822
+likes : 689
 comment : 0
-repost : 176
-views : 761406
+repost : 19
+views : 26256
+text : Сумочка - http://ali.pub/2slvxx
+attachments : https://pp.userapi.com/c845521/v845521447/10536f/tQwo_cRk_oE.jpg
+link : https://vk.com/wall-93943373_53822
+
+
+
+id : 28957
+likes : 2830
+comment : 0
+repost : 177
+views : 761822
 text : красивые и полезные холщевые сумки для продуктов:
 
 http://ali.pub/2eh9pw
@@ -505,10 +505,10 @@ link : https://vk.com/wall-113590406_28957
 
 
 id : 32652
-likes : 698
+likes : 700
 comment : 0
 repost : 26
-views : 68389
+views : 68426
 text : базовое белье - http://ali.pub/2sh26g
 attachments : https://pp.userapi.com/c846221/v846221270/104f87/q1pF8LXfTks.jpg
 link : https://vk.com/wall-113590406_32652
@@ -516,10 +516,10 @@ link : https://vk.com/wall-113590406_32652
 
 
 id : 32647
-likes : 540
+likes : 544
 comment : 0
 repost : 18
-views : 64121
+views : 64153
 text : шарф - http://ali.pub/2sh1tf
 attachments : https://pp.userapi.com/c846221/v846221270/104f5f/QeEVACrzJOQ.jpg
 link : https://vk.com/wall-113590406_32647
@@ -527,10 +527,10 @@ link : https://vk.com/wall-113590406_32647
 
 
 id : 32646
-likes : 505
+likes : 506
 comment : 0
 repost : 20
-views : 32631
+views : 32658
 text : набор помад - http://ali.pub/2sh1s9
 attachments : https://pp.userapi.com/c846221/v846221270/104f56/e1I9pQk1uAM.jpg
 link : https://vk.com/wall-113590406_32646
@@ -538,10 +538,10 @@ link : https://vk.com/wall-113590406_32646
 
 
 id : 32747
-likes : 502
+likes : 503
 comment : 0
 repost : 33
-views : 63033
+views : 63087
 text : брюки - http://ali.pub/2t2z5q
 attachments : https://pp.userapi.com/c830108/v830108044/1b3712/i1On3Nin6P0.jpg
 link : https://vk.com/wall-113590406_32747
@@ -552,7 +552,7 @@ id : 32780
 likes : 473
 comment : 0
 repost : 16
-views : 55642
+views : 55704
 text : плед - http://ali.pub/2ta5uu
 attachments : https://pp.userapi.com/c847221/v847221683/109ec7/lp4fNRGFeD4.jpg
 link : https://vk.com/wall-113590406_32780
@@ -560,10 +560,10 @@ link : https://vk.com/wall-113590406_32780
 
 
 id : 32917
-likes : 431
+likes : 432
 comment : 0
-repost : 23
-views : 23618
+repost : 24
+views : 23721
 text : чашки - http://ali.pub/2u0r14
 attachments : https://pp.userapi.com/c830708/v830708734/1bdc0a/7lFfkqUWfCM.jpg
 link : https://vk.com/wall-113590406_32917
@@ -574,7 +574,7 @@ id : 32688
 likes : 418
 comment : 0
 repost : 11
-views : 33535
+views : 33572
 text : боди - http://ali.pub/2so3q9
 attachments : https://pp.userapi.com/c845416/v845416822/108aa5/7wAdxCEPeH4.jpg
 link : https://vk.com/wall-113590406_32688
@@ -585,7 +585,7 @@ id : 32701
 likes : 391
 comment : 0
 repost : 22
-views : 64159
+views : 64200
 text : серьги - http://ali.pub/2sq924
 attachments : https://pp.userapi.com/c849128/v849128252/8ff91/zf1DxI5a484.jpg
 link : https://vk.com/wall-113590406_32701
@@ -593,10 +593,10 @@ link : https://vk.com/wall-113590406_32701
 
 
 id : 32682
-likes : 377
+likes : 379
 comment : 0
 repost : 24
-views : 32368
+views : 32408
 text : кольца - http://ali.pub/2so3my
 attachments : https://pp.userapi.com/c845416/v845416822/108a75/P0kbt_UgPnY.jpg
 link : https://vk.com/wall-113590406_32682
