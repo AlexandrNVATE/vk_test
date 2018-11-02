@@ -1,6 +1,7 @@
 import datetime
 import vk_adapter
 import json_adapter
+import requests
 
 
 
@@ -17,17 +18,33 @@ def main():
         и добавление их в конец файла 
     '''
     all_posts=[]
+<<<<<<< HEAD
+=======
+    groups_id = vk.get_all_user_group('113930716')
+    print(groups_id)
+
+>>>>>>> f1a2294df0dea74359b0a86dd304907b02a91a0d
     for group_id in groups_id:
         all_group_posts = vk.get_all_posts_in_group(group_id, last_date)
         data_posts = [json_adapter.get_data(post) for post in all_group_posts]
         data_posts = json_adapter.sort_post(data_posts)
         data_posts = data_posts[:10]
         all_posts.extend(data_posts)
+<<<<<<< HEAD
 
     # запись самых популярных постов в файл, отсортировав
     #и выбрав самые популярные из всех груп
     all_sort_post = json_adapter.sort_post(all_posts)
     json_adapter.write_posts(all_sort_post, 'popular_post_sort.txt')
+=======
+    #запись 10 самых популярных постов тз каждой группы в файл, без сортировки
+    json_adapter.write_posts(all_posts, 'ali_post.txt')
+
+    # запись самых популярных постов в файл, отсортировав
+    #и выбрав самые популярные из всех груп
+    all_sort_post = sorted(all_posts,key=lambda x: x['likes'], reverse=True)
+    json_adapter.write_posts(all_posts, 'ali_post_sort.txt')
+>>>>>>> f1a2294df0dea74359b0a86dd304907b02a91a0d
     print('Finish')
 
 

@@ -1,5 +1,9 @@
 import json
+<<<<<<< HEAD:json_adapter.py
 import os
+=======
+import re
+>>>>>>> f1a2294df0dea74359b0a86dd304907b02a91a0d:json_adapter.py
 
 '''
     Запись json данных в файл file_name
@@ -65,8 +69,12 @@ def get_data(post):
         views = 0
     try:
         text = str(post['text'])
+        text_link = '-'
+        # text_link = re.findall(r'(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/', text)
+
     except:
-        text = '***'
+        text = '-'
+        text_link = '-'
     try:
         attach_photos = '-'
         if 'photo' in (post['attachments'][0]).keys():
@@ -87,6 +95,7 @@ def get_data(post):
         'repost': repost,
         'views': views,
         'text': text,
+        'text_link':text_link,
         'attachments':attach_photos,
         'link': link
     }
