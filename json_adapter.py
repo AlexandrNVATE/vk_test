@@ -1,4 +1,5 @@
 import json
+import os
 
 '''
     Запись json данных в файл file_name
@@ -17,7 +18,10 @@ def write_json(data, file_name= 'post.json'):
     по умолчанию post.json
 '''
 def write_posts(posts, file_name = 'post.json'):
-    with open(file_name,'w',encoding='cp1251') as file:
+
+    #создаем папку res если ее еще нет
+    path = ensure_dir('res\\'+file_name)
+    with open(path,'w',encoding='cp1251') as file:
         for post in posts:
             keys = post.keys()
             for key in keys:
@@ -25,6 +29,7 @@ def write_posts(posts, file_name = 'post.json'):
                 file.write(s)
 
             file.write('\n\n\n')
+
 
 '''
     получение выбранных полей из объекта json
@@ -41,7 +46,7 @@ def get_data(post):
     try:
         post_id = post['id']
     except:
-        post = 0
+        post_id = 0
     try:
         likes = int(post['likes']['count'])
     except:
@@ -87,3 +92,22 @@ def get_data(post):
     }
 
     return  data
+
+
+'''
+    сортировка постов из групп вк
+    по убыванию популярности
+'''
+def sort_post(posts):
+    return sorted(posts,key = lambda x: x['likes'],reverse=True)
+
+'''
+создание новой папки если она еще не существует
+path - путь к новой папке
+filename - имя файла
+'''
+def ensure_dir(path):
+    directory = os.path.dirname(path)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    return path
