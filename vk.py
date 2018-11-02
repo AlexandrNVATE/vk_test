@@ -53,6 +53,7 @@ def most_popular_posts_in_user_group():
                 и добавление первых 10 в общий список популярных постов пользователя
             '''
             data_posts = json_adapter.sort_post([json_adapter.get_data(post) for post in all_post_in_group])[:10]
+            all_posts.extend(data_posts)
 
     most_popular_posts = json_adapter.sort_post(all_posts)[:100]
     json_adapter.write_posts(most_popular_posts,'my_best_days_posts.txt')
