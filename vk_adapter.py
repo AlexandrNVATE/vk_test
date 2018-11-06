@@ -33,6 +33,10 @@ class VK:
                     oldest_post_date = posts[-1]['date']
                     # если дата позднее заданной то остановить цикл или постов больше нет
                     if (oldest_post_date < last_date):
+                        #даляем все записи последнее заданной даты, которые попали в конце запроса
+                        while all_posts and (all_posts[-1]['date']<last_date) :
+                            all_posts.remove(all_posts[-1])
+
                         print('Записи получены')
                         break
                     offset += self.count_read_posts
@@ -42,6 +46,8 @@ class VK:
             if 'error' in r.json().keys():
                 print( '\33[31m'+'Error: ' + r.json()['error']['error_msg']+ '\x1b[0m')
                 break
+        #удаляем закрепленную запись если она не подходит по времени
+        if all_posts and (all_posts[0]['date']<last_date) : all_posts.remove(all_posts[0])
         return all_posts
 
     '''
@@ -50,7 +56,6 @@ class VK:
     '''
     def get_all_user_group(self, id_user):
         print('Getting all groups')
-
         r = requests.get('https://api.vk.com/method/groups.get',
                          params={'user_id': id_user, 'extended': 1, 'count': 120,
                                  'access_token': self.token,
@@ -61,3 +66,14 @@ class VK:
 
         print('Finish getting all groups')
         return groups
+
+    '''
+    возвращает двнные пользователя
+    фамилию, имя
+    '''
+    def get_user_by_id(self,id_user):
+        user = requests.get('https://api.vk.com/method/users.get',
+                         params={'user_ids': id_user, 'fields': 'photo_50,city,verified',
+                                 'access_token': self.token,
+                                 'v': self.version})
+        return user.json()['response'][0]

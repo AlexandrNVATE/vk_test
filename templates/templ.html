@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+   <link href="style.css" rel="stylesheet">
+</head>
+<h1>{{name}} {{surname}}</h1>
+  <body>
+    {% for num in posts %}
+    <div class = 'post'>
+      <div class = 'description'>
+      <p> ID {{num['id']}}</p>
+      <p> Data {{num['date']}}</p>
+      <p> Likes : {{num['id']}}</p>
+      <p> Comments : {{num['comment']}}</p>
+      <p> Reposts : {{num['repost']}}</p>
+      <p> Views : {{num['views']}}</p>
+      <p>{{num['text']}}</p>
+      <p><a href="{{num['link']}}">open links VK</a></p>
+        </div>
+		<div class='link'>
+          <a href="{{num['link']}}"><img src="{{num['attachments']}}" alt='{{num['text']}}'></a>
+    </div>
+      </div>
+    {% endfor %}
+  </body>
+</html>
+
+

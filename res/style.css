@@ -1,0 +1,42 @@
+*{
+    margin: 0,10;
+    padding: 10;
+}
+
+
+.post{
+	clear: both;
+	width:850px;
+	height: 600px;
+	float: left;
+	margin: 10px;
+}
+
+.description{
+	float: right;
+	width: 430px;
+	height:578px;
+	margin:0 10px;
+	padding: 10px;
+	border: 2px solid blue;
+}
+
+.description p{
+	font-family: Gill Sans Extrabold, sans-serif;
+	text-decoration: underline;
+	font-size: 16px;
+	text-shadow: 0px 0px 1px #AAAACC;
+}
+
+.link{
+	float: left
+	width:350px;
+	height: 600px;
+}
+.link img{
+	width:350px;
+	height: 350px;
+	margin: auto;
+	border: 2px solid green;
+	padding: 25px 10px;	
+}

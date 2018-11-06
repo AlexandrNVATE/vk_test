@@ -1,5 +1,6 @@
 import json
 import os
+import datetime
 
 '''
     Запись json данных в файл file_name
@@ -26,6 +27,7 @@ def write_posts(posts, file_name = 'post.json'):
             keys = post.keys()
             for key in keys:
                 s = ('{} : {}\n'.format(key,post[key])).encode('cp1251', errors='ignore').decode('cp1251')
+                print(s)
                 file.write(s)
 
             file.write('\n\n\n')
@@ -48,6 +50,11 @@ def get_data(post):
     except:
         post_id = 0
     try:
+        date = post['date']
+        date = datetime.datetime.utcfromtimestamp(date)
+    except:
+        date = 0
+    try:
         likes = int(post['likes']['count'])
     except:
         likes = 0
@@ -65,6 +72,7 @@ def get_data(post):
         views = 0
     try:
         text = str(post['text'])
+        if len(text)>200 : text = text[:200]
     except:
         text = '***'
     try:
@@ -83,6 +91,7 @@ def get_data(post):
     data = {
         'id': post_id,
         'likes': likes,
+        'date': datetime.datetime.strftime(date,"%H:%M:%S %d.%m.%Y"),
         'comment': comment,
         'repost': repost,
         'views': views,
